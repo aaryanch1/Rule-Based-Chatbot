@@ -1,0 +1,4 @@
+# PyBot - Simple Rule-Based Chatbot
+# No external dependencies required.
+# This project only uses Python's standard library (random).
+# Python 3.6+ is required.
